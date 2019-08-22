@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">task_14_Fragment</string>
+    <string name="text_activity">Activity</string>
+    <string name="editText_hint">ここに入力してください。</string>
+</resources>
